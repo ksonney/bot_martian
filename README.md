@@ -16,3 +16,7 @@ Option 2 :
 
 Be aware that this is a spare-time project for Kevin, and it does require him to update the bot code on Cheap Bots, Done Quick before they go live. 
 
+## Versions
+
+Versioning is done with tags. We use Symantic Versioning (major.minor.patch), and the most recent version is the one used on the "live" bot. There is no release schedule, but you can check the latest version tag to see if your changes are live yet or not. 
+
